@@ -17,7 +17,7 @@ This Power BI project analyzes car sales data to track revenue, profit, and regi
 ## 🖼 Dashboard Preview
 
 ### Dashboard Overview
-![car-sales-dashboard-overview.jpg](car-sales-dashboard-overview.jpg)
+![car-sales-dashboard-overview.jpg](car-sales-dashboards-overview.jpg)
 
 ### Dashboard Details
 ![car-sales-dashboard-details.jpg](car-sales-dashboard-details.jpg)
